@@ -1,0 +1,42 @@
+# 🍽 Food Restaurant Website
+
+A simple and clean responsive food ordering website made using HTML and CSS.
+
+## 🔥 Features
+- Responsive design
+- Food menu showcase
+- Customer review section
+- Contact form
+- 50% offer banner
+
+## 🚀 Technologies Used
+- HTML5
+- CSS3
+-JavaScript
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Contact Page
+![Contact Page](screenshots/contact.png)
+
+## 📁 Folder Structure
+## 📁 Folder Structure
+
+res/
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│   ├── food.png
+│   └── logo.png
+## 📁 Folder Structure
+
+## 🧑‍💻 How to Run the Project
+
+1. Download or clone this repository.
+2. Navigate to the res/ folder.
+3. Double-click on index.html to open it in your browser.
+4. That’s it! Your food website will be running locally.
